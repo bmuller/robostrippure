@@ -1,4 +1,5 @@
 # robostrippure
+[![Build Status](https://secure.travis-ci.org/bmuller/robostrippure.png?branch=master)](https://travis-ci.org/bmuller/robostrippure)
 
 A Clojure library designed to treat a website as though it provided a REST interface.
 
